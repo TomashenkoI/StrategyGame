@@ -1,10 +1,10 @@
 package com.interlink.units.workers;
 
 import com.interlink.units.Person;
-import com.interlink.units.buildings.Barrack;
-import com.interlink.units.buildings.Construction;
-import com.interlink.units.buildings.Warehouse;
-import com.interlink.units.buildings.WorkerHouse;
+import com.interlink.buildings.Barrack;
+import com.interlink.buildings.Construction;
+import com.interlink.buildings.Warehouse;
+import com.interlink.buildings.WorkerHouse;
 
 import java.util.Scanner;
 

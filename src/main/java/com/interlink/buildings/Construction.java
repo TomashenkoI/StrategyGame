@@ -1,4 +1,4 @@
-package com.interlink.units.buildings;
+package com.interlink.buildings;
 
 public interface Construction {
 

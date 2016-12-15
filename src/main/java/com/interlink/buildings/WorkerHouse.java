@@ -1,4 +1,4 @@
-package com.interlink.units.buildings;
+package com.interlink.buildings;
 
 import com.interlink.Resources;
 
